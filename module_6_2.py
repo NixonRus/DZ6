@@ -11,7 +11,7 @@ class Vehicle:  # Автомобиль
         return f'Модель: {self.__model}'
 
     def get_horsepower(self):
-        return f'Мощность двиганетя: {self.__engine_power}'
+        return f'Мощность двигатетя: {self.__engine_power}'
 
     def get_color(self):
         return f'Цвет: {self.__color}'
